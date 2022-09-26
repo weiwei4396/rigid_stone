@@ -1,2 +1,2 @@
 # rigid_stone
-练习册
+random write
